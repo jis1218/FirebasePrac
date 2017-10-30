@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1000379561598",
+    "firebase_url": "https://fbprojectbasic.firebaseio.com",
+    "project_id": "fbprojectbasic",
+    "storage_bucket": "fbprojectbasic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000379561598:android:7fed155e213c90f2",
+        "android_client_info": {
+          "package_name": "com.example.firebasebasic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000379561598-j2blhcco932gc2hsoqqt5q2g6p70fd9o.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1000379561598-mbjg1uqic2eqoenbgknsna8kieo9gouk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSTrHQn5OGuZTlflm8BT6WVgS-qtKwkQ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
